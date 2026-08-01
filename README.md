@@ -52,7 +52,7 @@ MyBatis · JPA · MariaDB
 
 | 영역 | 구현 내용 | 핵심 기술 |
 | --- | --- | --- |
-| 식자재 조회 | 검색·정렬·10개 단위 추가 조회·선택 삭제·알림 색상 | React State, Axios, TypeScript |
+| 식자재 조회 | 검색·정렬·10개 단위 추가 조회·개별 삭제·알림 색상 | React State, Axios, TypeScript |
 | 메뉴 조회 | 목록·사용 식자재 상세·판매 요청·재고 부족 오류 처리 | REST API, 상태 분리, `@Transactional` 백엔드 연동 |
 | 지출 통계 | 월별 조회·요약·카테고리 순위·차트 슬라이더 | Custom Hook, Chart.js, Swiper |
 | 모바일 대응 | PC 표와 모바일 카드의 정보 우선순위 분리 | Media Query, 반응형 CSS |
