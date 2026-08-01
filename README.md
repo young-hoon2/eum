@@ -146,8 +146,6 @@ useUsedStatistics(month)
 
 ![JWT 요청 흐름 분석·연동 검증](portfolio-21.png)
 
-> 발표 당시 작성한 업무 흐름도이며, 현재 공개 소스에서는 만료 응답 헤더로 `Token-Status`, 재발급 엔드포인트로 `/api/auth/reissue`를 사용합니다.
-
 ```text
 로그인 성공
    ↓
